@@ -2,11 +2,12 @@ hello = Welcome to musichunterbot, { $user }!
 lang-changed = Language changed to English
 support-text = Please contact @MusicsHunterSupportbot for support.
 track-unavailable = Sorry, the track "{ $title }" by { $artist } is not available in the requested quality.
+s-command = 🔍 Select search type:
 
 welcome-message = 
     👋 Hi { $user_mention }! Welcome to @MusicsHuntersbot🎧
 
-    Easily download music from <b>Spotify</b>, <b>Deezer</b>, <b>Tidal</b>, <b>Apple Music</b>, <b>Qobuz</b>, <b>Napster</b>, <b>SoundCloud</b>, <b>Beatport</b> and <b>RadioJavan.</b>
+    Easily download music from <b>Spotify</b>, <b>Deezer</b>, <b>Tidal</b>, <b>Apple Music</b>, <b>Qobuz</b>, <b>SoundCloud</b>, <b>Beatport</b> and <b>RadioJavan.</b>
 
     <b><u>❓ How It Works:</u></b>
     <b>· Search:</b> Find your favorite tracks using the search button.

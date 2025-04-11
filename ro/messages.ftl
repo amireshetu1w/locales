@@ -2,14 +2,17 @@ hello = Bine ai venit la musichunterbot, { $user }!
 lang-changed = Limba a fost schimbată pe română.
 support-text = Te rugăm să contactezi @MusicsHunterSupportbot pentru suport.
 track-unavailable = Îmi pare rău, dar "{ $title }" de { $artist } nu este disponibil la calitatea solicitată.
+s-command = 🔍 Selectează tipul căutării:
 
 welcome-message = 
     👋 Salut { $user_mention }! Bine-ai venit la @MusicsHuntersbot🎧
 
-    Descarcă super simplu muzică de pe <b>Spotify</b>, <b>Deezer</b>, <b>Tidal</b>, <b>Apple Music</b>, <b>Qobuz</b>, <b>Napster</b>, <b>SoundCloud</b>, <b>Beatport</b> și <b>RadioJavan</b>.
+    Descarcă super simplu muzică de pe <b>Spotify</b>, <b>Deezer</b>, <b>Tidal</b>, <b>Apple Music</b>, <b>Qobuz</b>, <b>SoundCloud</b>, <b>Beatport</b> și <b>RadioJavan</b>.
 
     <b><u>❓ Cum funcționează:</u></b>  
-    <b>· Caută:</b> Găsește piesele preferate cu butonul de căutare.       <b>· Dă un link:</b> Trimite-mi link-ul la o piesă și ți-o descarc pe loc.       <b>· Scrie-mi direct:</b> Dă-mi numele piesei sau al artistului și ți-o găsesc eu.
+    <b>· Caută:</b> Găsește piesele preferate cu butonul de căutare.       
+    <b>· Dă un link:</b> Trimite-mi link-ul la o piesă și ți-o descarc pe loc.       
+    <b>· Scrie-mi direct:</b> Dă-mi numele piesei sau al artistului și ți-o găsesc eu.
 
     <b><u>⚡ Rapid, Simplu, de Încredere:</u></b>  
     Primești muzica repede și fără bătăi de cap.
@@ -126,10 +129,11 @@ apple_quality-settings = 🎧 Calitate Audio pentru Apple
 default-search-service-settings = Selectează serviciul implicit de căutare:
 
 # /settings command buttons
-quality-button = 🔊 Quality
-zip-button = 🔗 Zip
-send-info = ℹ️ Send Info
-default-search-button = ⚙️ Default Search
+quality-button = 🔊 Calitate
+zip-button = 🔗 ZIP
+send-info = ℹ️ Trimite detalii despre piesă
+default-search-button = ⚙️ Motor de Căutare Implicit
+
 
 
 download-cancelled = Sarcina de descărcare pentru { $media_id } a fost anulată.
@@ -169,7 +173,7 @@ about-caption =
     }
 
 track-unavailable = Îmi pare rău, dar piesa "{ $title }" de { $artist } nu este disponibilă la calitatea solicitată.
-duplicate-download = Someone's already downloading this. Try again later.
-download-in-progress = Wait for your current download to finish.
+duplicate-download = Cineva deja descarcă asta.  Te rog să încerci mai târziu.
+download-in-progress = Așteaptă ca descărcarea ta curentă să se termine mai întâi.
 
 
